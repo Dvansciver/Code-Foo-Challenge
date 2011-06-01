@@ -224,7 +224,11 @@ int main()
 
 			else
 			{
-			   
+				cout << "Ending 1: Elbert walks out of Detective " << name << "'s office\n and smiles slyly at Conners. Conners takes out his pistol and orders Elbert to get back into the office.\n\n" << endl;
+			    cout << "Conners: Where do you think you're going, boy?\n\n" << endl;
+				cout << "He puts his gun to the back of Elbert's head.\n Conners looks at " << name << " with disappointment.\n\n" << endl;
+				cout << "Conners: You really think this bum is innocent?\n Maybe you weren't cut out for this job after all.\n\n" << endl;
+				cout << "Elbert makes an attempt to disarm him by grabbing his gun.\n The struggle lasts only a few seconds before a shot is fired.\n " << name << " is shot in the heart and falls to the ground\n taking one last blood filled breath.\n Conners recovers his grip on his gun and pistol whips Elbert, knocking him out.\n Conners calls out the office for backup as " << name << "'s blood soaks into the carpet.\n\n"  << endl;
 			}
 
 			Sleep(9000);
